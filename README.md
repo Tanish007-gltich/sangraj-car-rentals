@@ -4,7 +4,7 @@ A modern, responsive car rental web application built with **React** for the fro
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live Site on Netlify](https://sangraj-car-rental.netlify.app)
+👉 [Visit the Live Site on Netlify](https://sangraj-rentals.netlify.app/)
 
 ---
 
@@ -49,9 +49,7 @@ A modern, responsive car rental web application built with **React** for the fro
 ---
 
 ## 🖼️ Screenshots
-  
-> You can include images by uploading them to your repo and linking like this:  
-> `![Homepage](./screenshots/homepage.png)`
+
 
 ---
 
