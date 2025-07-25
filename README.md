@@ -47,7 +47,11 @@ A modern, responsive car rental web application built with **React** for the fro
   Reusable components and easy-to-extend structure.
 
 ---
+#Screenshot👇🏻
 
+![Home Page](ss/homepage.png)
+
+---
 ## 🚀 Getting Started
 
 To run this project locally:
