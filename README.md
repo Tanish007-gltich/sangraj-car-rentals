@@ -1,4 +1,4 @@
-# 🚗 SAngRaj Car Rental
+                                 # 🚗 SAngRaj Car Rental
 
 A modern, responsive car rental web application built with **React** for the frontend and **Spring Boot** (in progress) for backend services. The platform allows users to view, book, and manage car rentals with a smooth UI and a focus on real-world usability.
 
@@ -45,12 +45,6 @@ A modern, responsive car rental web application built with **React** for the fro
 
 - 🧩 **Modular Codebase**  
   Reusable components and easy-to-extend structure.
-
----
-
-## 🖼️ Screenshots
-![Uploading Screenshot 2025-06-20 at 12.29.57 PM.png…]()
-
 
 ---
 
